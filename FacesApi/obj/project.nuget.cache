@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AYC4+UqUEDiNA1t9fquyQl3ANLgfsXsp/aPUOeMzTAJw6ChOla7YPr48QVXHv8cos3SXvg8SyLgOHrLWVbS0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\opencvsharp4\\4.5.1.20210210\\opencvsharp4.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.1.20210210\\opencvsharp4.runtime.win.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\opencvsharp4.windows\\4.5.1.20210210\\opencvsharp4.windows.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.5.1.20210210\\opencvsharp4.wpfextensions.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Tarek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

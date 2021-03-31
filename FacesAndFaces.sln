@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Faces", "Faces", "{BEA2C23A-6CBB-4B98-BACB-6A7B815B2A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacesApi", "FacesApi\FacesApi.csproj", "{BF7C5445-E19C-43A5-BFDF-22986749109B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceApiTest", "FaceApiTest\FaceApiTest.csproj", "{DDD3349F-46B5-4998-9918-385742D48C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7C5445-E19C-43A5-BFDF-22986749109B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7C5445-E19C-43A5-BFDF-22986749109B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7C5445-E19C-43A5-BFDF-22986749109B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7C5445-E19C-43A5-BFDF-22986749109B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD3349F-46B5-4998-9918-385742D48C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD3349F-46B5-4998-9918-385742D48C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD3349F-46B5-4998-9918-385742D48C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD3349F-46B5-4998-9918-385742D48C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF7C5445-E19C-43A5-BFDF-22986749109B} = {BEA2C23A-6CBB-4B98-BACB-6A7B815B2A0E}
+		{DDD3349F-46B5-4998-9918-385742D48C5D} = {BEA2C23A-6CBB-4B98-BACB-6A7B815B2A0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32E9F52-637C-443F-B379-B8831CCF859D}
+	EndGlobalSection
+EndGlobal
