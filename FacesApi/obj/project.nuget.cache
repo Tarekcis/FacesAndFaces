@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6AYC4+UqUEDiNA1t9fquyQl3ANLgfsXsp/aPUOeMzTAJw6ChOla7YPr48QVXHv8cos3SXvg8SyLgOHrLWVbS0g==",
+  "dgSpecHash": "S1PTylyoMu8SntMaAdidwjS7zQj0+WQCCFhvkkdSRAKxGIQMKt89ocW6azcJVhOiex/2uEgaSFSeURMo1DWKhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
+  "projectFilePath": "D:\\Work\\It'sMine\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

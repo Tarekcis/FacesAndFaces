@@ -548,11 +548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
+      "projectUniqueName": "D:\\Work\\It'sMine\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
       "projectName": "FacesApi",
-      "projectPath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
+      "projectPath": "D:\\Work\\It'sMine\\FacesAndFaces\\FacesApi\\FacesApi.csproj",
       "packagesPath": "C:\\Users\\Tarek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FacesApi\\obj\\",
+      "outputPath": "D:\\Work\\It'sMine\\FacesAndFaces\\FacesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

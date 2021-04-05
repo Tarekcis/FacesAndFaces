@@ -192,11 +192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
+      "projectUniqueName": "D:\\Work\\It'sMine\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
       "projectName": "FaceApiTest",
-      "projectPath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
+      "projectPath": "D:\\Work\\It'sMine\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
       "packagesPath": "C:\\Users\\Tarek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FaceApiTest\\obj\\",
+      "outputPath": "D:\\Work\\It'sMine\\FacesAndFaces\\FaceApiTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

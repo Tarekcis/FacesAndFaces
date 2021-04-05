@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSSMfZZTjNYRwRDiA/75kcHtUWy4l0ZpLgVDhs8d6XWHQk1byM6gobIRj3U9gsOeSVtdLYEK8m2aCZRFhqtgbQ==",
+  "dgSpecHash": "JrzEAkjtb1+dTPSsHmBhn2Q3/FzOMvQVJqSwvnEC9Ntkbkty15uHjD2WzRuAlkZ76jqMjOWhWOvS3ixsTKJn+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarek\\source\\repos\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
+  "projectFilePath": "D:\\Work\\It'sMine\\FacesAndFaces\\FaceApiTest\\FaceApiTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Tarek\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
